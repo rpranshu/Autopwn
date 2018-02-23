@@ -5,6 +5,7 @@ A simple bash based meterpreter automation!
 
 # Prerequisites
 - [Metasploit framework](https://metasploit.help.rapid7.com/docs/installing-the-metasploit-framework)
+- A linux/unix based system
 - [ngrok](https://ngrok.com/) <br>
 > Please note that ngrok is required only for performing over the internet (WAN) attack!
 
