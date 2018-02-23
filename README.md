@@ -5,6 +5,7 @@ A simple bash based meterpreter automator!
 
 Usage
 ```
+chmod +x autopreter
 ./autopreter
 ```
 
