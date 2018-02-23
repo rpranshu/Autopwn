@@ -1,5 +1,5 @@
 # Autopreter
-A simple bash based meterpreter automator!
+A simple bash based meterpreter automation!
 
 **With just a few clicks, create an android or windows meterpreter payload and start the handler to get backdoor access on victim devices!**
 
