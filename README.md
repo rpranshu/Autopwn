@@ -1,7 +1,7 @@
 # Autopreter
 A simple bash based meterpreter automation!
 
-**With just a few clicks, create an android or windows meterpreter payload and start the handler to get backdoor access on victim devices!**
+**With just a few clicks, create an android or windows meterpreter payload and start the handler to get a backdoor access on the victim device!**
 
 # Prerequisites
 - [Metasploit framework](https://metasploit.help.rapid7.com/docs/installing-the-metasploit-framework)
