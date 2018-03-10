@@ -3,7 +3,7 @@ A simple bash based metasploit automation tool!
 
 **With just a few clicks, own any android or windows device!!**
 
-# CAUTION:
+# Caution:
 **This tool is purely for educational purposes, If you end up in any leagal trouble and point a finger at me, I'll just laugh at you :)**
 **The user is responsible for his/her own actions**
 # Update:  [![GitHub release](https://img.shields.io/badge/Release-v2-green.svg?&colorA=024a70&?&colorB=0779b5)]()
