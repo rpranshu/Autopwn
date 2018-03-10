@@ -1,4 +1,4 @@
-# Autopwn
+# Autopwn™
 A simple bash based metasploit automation tool!
 
 **With just a few clicks, own any android or windows device!!**
