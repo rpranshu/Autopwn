@@ -4,8 +4,8 @@ A simple bash based metasploit automation tool!
 **With just a few clicks, own any android or windows device!!**
 
 # CAUTION:
-**This tool is purely for educational purposes, don't use it on any website *without* the permission of it's owner.**
-**The user is responsible for his/her actions!**
+**This tool is purely for educational purposes, If you end up in any leagal trouble and point a finger at me, I'll just laugh at you :)**
+**The user is responsible for his/her own actions**
 # Update:  [![GitHub release](https://img.shields.io/badge/Release-v2-green.svg?&colorA=024a70&?&colorB=0779b5)]()
 - Changed the name from Autopreter to Autopwn™
 - System-wide installation (just enter Autopwn in the terminal from any directory!!)
@@ -25,5 +25,3 @@ cp autopwn
 # Future Updates
 - More exploits to be added
 - Windows host support to be added soon
-
-**P.S. THIS TOOL IS STRICTLY FOR EDUCATIONAL USE !, If you end up in any leagal trouble and point a finger at me, I'll just laugh at you :)**
