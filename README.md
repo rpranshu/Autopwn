@@ -3,6 +3,11 @@ A simple bash based metasploit automation tool!
 
 **With just a few clicks, own any android or windows device!!**
 ------
+# What's new?
+- Changed the name from Autopreter to Autopwn™
+- System-wide installation (just enter Autopwn in the terminal from any directory!!)
+- Added **eternalblue** exploit
+------
 # Prerequisites
 - [Metasploit framework](https://metasploit.help.rapid7.com/docs/installing-the-metasploit-framework)
 - A **linux/unix** based system
