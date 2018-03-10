@@ -1,7 +1,10 @@
-# Autopwn™
+# Autopwn™ [![GitHub release](https://img.shields.io/badge/Built--With-Swag-green.svg?style=flat-square?&colorA=e76b36&?&colorB=d55b33)]()
 A simple bash based metasploit automation tool!
 
 **With just a few clicks, own any android or windows device!!**
+
+![autopwn in action](https://raw.githubusercontent.com/rpranshu/Autopwn/master/Autopwn.png)
+**Autopwn in action**
 
 # Caution:
 **This tool is purely for educational purposes, If you end up in any leagal trouble and point a finger at me, I'll just laugh at you :)**
