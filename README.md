@@ -19,11 +19,9 @@ A simple bash based metasploit automation tool!
 - [ngrok](https://ngrok.com/) <br>
 > Please note that ngrok is only required for performing over the internet (WAN) attack!
 # Installation
-download the zip and extract the script
 ```
-chmod +x autopwn.sh
-shc -f autopwn.sh -o autopwn
-cp autopwn 
+chmod +x autopwn
+cp autopwn usr/local/bin/autopwn
 ```
 # Future Updates
 - More exploits to be added
