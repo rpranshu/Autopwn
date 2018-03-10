@@ -1,7 +1,7 @@
 # Autopwn
 A simple bash based metasploit automation tool!
 
-**With just a few clicks, pwn any android or windows device!!**
+**With just a few clicks, own any android or windows device!!**
 ------
 # Prerequisites
 - [Metasploit framework](https://metasploit.help.rapid7.com/docs/installing-the-metasploit-framework)
