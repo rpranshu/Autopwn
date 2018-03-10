@@ -21,4 +21,4 @@ cp autopwn
 - More exploits to be added
 - Windows host support to be added soon
 
-**P.S. THIS TOOL IS STRICTLY FOR EDUCATIONAL USE !, If you end up getting caught up in any leagal trouble and come complaining to me, I'll just laugh at you :)**
+**P.S. THIS TOOL IS STRICTLY FOR EDUCATIONAL USE !, If you end up in any leagal trouble and point a finger at me, I'll just laugh at you :)**
