@@ -17,7 +17,7 @@ A simple bash based metasploit automation tool!
 - [Metasploit framework](https://metasploit.help.rapid7.com/docs/installing-the-metasploit-framework)
 - A **linux/unix** based system
 - [ngrok](https://ngrok.com/) <br>
-> Please note that ngrok is only required for performing over the internet (WAN) attack!
+> Please note that ngrok is not not a necessity and is required only for performing over the internet (WAN) attack!
 # Installation
 ```
 chmod +x autopwn
