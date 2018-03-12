@@ -20,8 +20,8 @@ A simple bash based metasploit automation tool!
 > Please note that ngrok is not not a necessity and is required only for performing over the internet (WAN) attack!
 # Installation
 ```
-chmod +x autopwn
-cp autopwn usr/local/bin/autopwn
+chmod +x Autopwn
+cp Autopwn usr/local/bin/Autopwn
 ```
 # Future Updates
 - More exploits to be added
