@@ -3,7 +3,7 @@ A simple bash based metasploit automation tool!
 
 **With just a few clicks, own any android or windows device!!**
 
-![autopwn in action](https://raw.githubusercontent.com/rpranshu/Autopwn/master/Autopwn.png)
+![autopwn in action](https://raw.githubusercontent.com/rpranshu/Autopwn/master/AutoPwn.png)
 **Autopwn in action**
 
 # Caution:
