@@ -25,6 +25,8 @@ A simple bash based metasploit automation tool!
 chmod +x Autopwn.sh
 ./Autopwn.sh
 ```
+# Donate
+Donate generously! [![Support](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/rpranshu)
 # Future Updates
 - More exploits to be added
 - Windows host support to be added soon
