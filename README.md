@@ -22,8 +22,7 @@ A simple bash based metasploit automation tool!
 > Please note that ngrok is not not a necessity and is required only for performing over the internet (WAN) attack!
 # Installation
 ```
-chmod +x Autopwn.sh
-./Autopwn.sh
+ . /Autopwn.sh
 ```
 # Donate
 Donate generously! [![Support](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/rpranshu)
