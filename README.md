@@ -9,7 +9,7 @@ A simple bash based metasploit automation tool!
 **Autopwn in action**
 
 # Caution:
-**This tool is purely for educational purposes, If you end up in any leagal trouble and point a finger at me, I'll just laugh at you :)**
+**This tool is purely for educational purposes, If you end up in any legal trouble and point a finger at me, I'll just laugh at you :)**
 **The user is responsible for his/her own actions**
 # Update:  [![GitHub release](https://img.shields.io/badge/Release-v2-green.svg?&colorA=024a70&?&colorB=0779b5)]()
 - Changed the name from Autopreter to Autopwn™
